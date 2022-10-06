@@ -1,4 +1,4 @@
-Projects/*.ipynb linguist-vendored
+*.ipynb =Python
 
 #**  linguist-language
 #.ipynb
