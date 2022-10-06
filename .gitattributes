@@ -1,1 +1,3 @@
-Projects/*.ipynb linguist-language=Python
+Projects/* linguist-language
+#.ipynb
+#=Python
