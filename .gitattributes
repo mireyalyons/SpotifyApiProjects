@@ -1,4 +1,4 @@
-Projects/ *.ipynb linguist-vendored
+Projects/*.ipynb linguist-vendored
 
 #**  linguist-language
 #.ipynb
