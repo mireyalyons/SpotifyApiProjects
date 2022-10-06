@@ -1,3 +1,5 @@
-Projects/** linguist-language
+Projects/ *.ipynb linguist-vendored
+
+#**  linguist-language
 #.ipynb
 #=Python
